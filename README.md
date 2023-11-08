@@ -15,5 +15,5 @@ A structure detailing the key aspects of this project is presented below.
 - Project
    - Project of Module 1 (Inteligencia artificial avanzada para la ciencia de datos I)
 - Workshops
--  Workshops of Module 1  (Inteligencia artificial avanzada para la ciencia de datos I)
+   - Workshops of Module 1  (Inteligencia artificial avanzada para la ciencia de datos I)
 
