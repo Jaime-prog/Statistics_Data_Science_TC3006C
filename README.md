@@ -7,13 +7,13 @@ A structure detailing the key aspects of this project is presented below.
 ## :arrow_right: Content of the repository
 
  _Folders/Archivos_: 
-- Forecasting Queretaro Industrial Activity
+- :money_with_wings: Forecasting Queretaro Industrial Activity
      - `RW_ARIMA_Simulation_Jaime.ipynb`
      - `iaiqro.csv`
- - Módulo 5 Preprocesamiento de datos multivariados o de una serie temporal (Portafolio Implementación)
+ - :scroll: Módulo 5 Preprocesamiento de datos multivariados o de una serie temporal (Portafolio Implementación)
    - `Statistics_Module2.ipynb`
-- Project
+- :notebook_with_decorative_cover: Project
    - Project of Module 1 (Inteligencia artificial avanzada para la ciencia de datos I)
-- Workshops
+- :orange_book: Workshops
    - Workshops of Module 1  (Inteligencia artificial avanzada para la ciencia de datos I)
 
