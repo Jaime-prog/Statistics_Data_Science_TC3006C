@@ -8,6 +8,9 @@ A continuación, se presenta una estructura que detalla los aspectos clave de es
 
  _Folders/Archivos_: 
 - Forecasting Queretaro Industrial Activity
--    - `CNN_base_model.ipynb`
-- `CNN_Image_Classification.ipynb`
-- `Reporte Implementación de un modelo de deep learning`
+     - `RW_ARIMA_Simulation_Jaime.ipynb`
+     - `iaiqro.csv`
+ - Módulo 5 Preprocesamiento de datos multivariados o de una serie temporal (Portafolio Implementación)
+   - `Statistics_Module2.ipynb`
+
+
