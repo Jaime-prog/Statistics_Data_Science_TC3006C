@@ -13,7 +13,7 @@ A structure detailing the key aspects of this project is presented below.
  - :scroll: Módulo 5 Preprocesamiento de datos multivariados o de una serie temporal (Portafolio Implementación)
    - `Statistics_Module2.ipynb`
 - :notebook_with_decorative_cover: Project
-   - Project of Module 1 (Inteligencia artificial avanzada para la ciencia de datos I)
+   - `Project of Module 1 (Inteligencia artificial avanzada para la ciencia de datos I)`
 - :orange_book: Workshops
-   - Workshops of Module 1  (Inteligencia artificial avanzada para la ciencia de datos I)
+   - `Workshops of Module 1  (Inteligencia artificial avanzada para la ciencia de datos I)`
 
