@@ -6,7 +6,7 @@ A structure detailing the key aspects of this project is presented below.
 
 ## :arrow_right: Content of the repository
 
- _Folders/Archivos_: 
+ _Folders/Files_: 
 - :money_with_wings: Forecasting Queretaro Industrial Activity
      - `RW_ARIMA_Simulation_Jaime.ipynb`
      - `iaiqro.csv`
