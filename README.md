@@ -1,10 +1,10 @@
 # Statistics_Data_Science_TC3006C
 
-Este README proporciona una descripción sobre el contenido relacionado con las actividades de estadística
+This README provides a description of the content related to the statistical activities.
 
-A continuación, se presenta una estructura que detalla los aspectos clave de este proyecto.
+A structure detailing the key aspects of this project is presented below.
 
-## :arrow_right: Contenido del repositorio 
+## :arrow_right: Content of the repository
 
  _Folders/Archivos_: 
 - Forecasting Queretaro Industrial Activity
@@ -12,5 +12,8 @@ A continuación, se presenta una estructura que detalla los aspectos clave de es
      - `iaiqro.csv`
  - Módulo 5 Preprocesamiento de datos multivariados o de una serie temporal (Portafolio Implementación)
    - `Statistics_Module2.ipynb`
-
+- Project
+   - Project of Module 1 (Inteligencia artificial avanzada para la ciencia de datos I)
+- Workshops
+-  Workshops of Module 1  (Inteligencia artificial avanzada para la ciencia de datos I)
 
